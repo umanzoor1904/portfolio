@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1ed10cf0.chunk.css",
-    "main.js": "/portfolio/static/js/main.2cdf1afd.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.2cdf1afd.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.87304d7b.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.87304d7b.js.map",
-    "static/js/2.466b92f9.chunk.js": "/portfolio/static/js/2.466b92f9.chunk.js",
-    "static/js/2.466b92f9.chunk.js.map": "/portfolio/static/js/2.466b92f9.chunk.js.map",
-    "static/js/3.28a9fda1.chunk.js": "/portfolio/static/js/3.28a9fda1.chunk.js",
-    "static/js/3.28a9fda1.chunk.js.map": "/portfolio/static/js/3.28a9fda1.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "static/css/main.1ed10cf0.chunk.css.map": "/portfolio/static/css/main.1ed10cf0.chunk.css.map",
-    "static/js/2.466b92f9.chunk.js.LICENSE.txt": "/portfolio/static/js/2.466b92f9.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/portfolio/static/media/Poppins-Regular.1421a94e.otf",
-    "static/media/Capture.51b8a8d9.JPG": "/portfolio/static/media/Capture.51b8a8d9.JPG",
-    "static/media/Chat.40f546e2.JPG": "/portfolio/static/media/Chat.40f546e2.JPG",
-    "static/media/LD.fff4eb82.png": "/portfolio/static/media/LD.fff4eb82.png",
-    "static/media/usman-min.2eb62b0c.jpg": "/portfolio/static/media/usman-min.2eb62b0c.jpg"
+    "main.css": "/portfolio/about/static/css/main.bbcf5d76.chunk.css",
+    "main.js": "/portfolio/about/static/js/main.2f9ce4e9.chunk.js",
+    "main.js.map": "/portfolio/about/static/js/main.2f9ce4e9.chunk.js.map",
+    "runtime-main.js": "/portfolio/about/static/js/runtime-main.6826da5b.js",
+    "runtime-main.js.map": "/portfolio/about/static/js/runtime-main.6826da5b.js.map",
+    "static/js/2.466b92f9.chunk.js": "/portfolio/about/static/js/2.466b92f9.chunk.js",
+    "static/js/2.466b92f9.chunk.js.map": "/portfolio/about/static/js/2.466b92f9.chunk.js.map",
+    "static/js/3.28a9fda1.chunk.js": "/portfolio/about/static/js/3.28a9fda1.chunk.js",
+    "static/js/3.28a9fda1.chunk.js.map": "/portfolio/about/static/js/3.28a9fda1.chunk.js.map",
+    "index.html": "/portfolio/about/index.html",
+    "static/css/main.bbcf5d76.chunk.css.map": "/portfolio/about/static/css/main.bbcf5d76.chunk.css.map",
+    "static/js/2.466b92f9.chunk.js.LICENSE.txt": "/portfolio/about/static/js/2.466b92f9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portfolio/about/static/media/Poppins-Regular.1421a94e.otf",
+    "static/media/Capture.51b8a8d9.JPG": "/portfolio/about/static/media/Capture.51b8a8d9.JPG",
+    "static/media/Chat.40f546e2.JPG": "/portfolio/about/static/media/Chat.40f546e2.JPG",
+    "static/media/LD.fff4eb82.png": "/portfolio/about/static/media/LD.fff4eb82.png",
+    "static/media/usman-min.2eb62b0c.jpg": "/portfolio/about/static/media/usman-min.2eb62b0c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.87304d7b.js",
+    "static/js/runtime-main.6826da5b.js",
     "static/js/2.466b92f9.chunk.js",
-    "static/css/main.1ed10cf0.chunk.css",
-    "static/js/main.2cdf1afd.chunk.js"
+    "static/css/main.bbcf5d76.chunk.css",
+    "static/js/main.2f9ce4e9.chunk.js"
   ]
 }
